@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1614608351 source:/home/mrrobot/Projects/Codeblocks/side-scrolling 2d action game v1/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<vector>
+	"hero.h"
+	"Enemy.h"
+	"Rocket.h"
+
+1614608357 /home/mrrobot/Projects/Codeblocks/side-scrolling 2d action game v1/include/hero.h
+	<SFML/Graphics.hpp>
+
+1614608340 source:/home/mrrobot/Projects/Codeblocks/side-scrolling 2d action game v1/src/hero.cpp
+	"hero.h"
+
+1614434603 source:/home/mrrobot/Projects/Codeblocks/side-scrolling 2d action game v1/src/Enemy.cpp
+	"Enemy.h"
+
+1614497222 /home/mrrobot/Projects/Codeblocks/side-scrolling 2d action game v1/include/Enemy.h
+	<SFML/Graphics.hpp>
+
+1614445147 source:/home/mrrobot/Projects/Codeblocks/side-scrolling 2d action game v1/src/Rocket.cpp
+	"Rocket.h"
+
+1614509611 /home/mrrobot/Projects/Codeblocks/side-scrolling 2d action game v1/include/Rocket.h
+	<SFML/Graphics.hpp>
+
